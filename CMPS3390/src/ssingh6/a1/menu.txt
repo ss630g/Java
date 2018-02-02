@@ -1,0 +1,16 @@
++================== CMPS 3390 Inheritance and Polymorphism ===================+
+|   M: Show this menu                                                         |
+|-----------------------------------------------------------------------------|
+|   G: Generate random classes Object3d, GameObject, Pickup, Character, Enemy |
+|      Store them in a List<T>                                                |
+|-----------------------------------------------------------------------------|
+|   V: View the List<T> contents                                              |
+|-----------------------------------------------------------------------------|
+|   S: Sort the List<T> by Class                                              |
+|-----------------------------------------------------------------------------|
+|   F: Generate HTML file with List<T> contents in a nice table format.       |
+|      Display the Class, ID, and Position of all objects in the list.        |
+|      Then open the file with the default browser                            |
+|-----------------------------------------------------------------------------|
+|   Q: Quit this application                                                  |
++=============================================================================+
